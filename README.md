@@ -8,6 +8,10 @@
 > 120,000 realistic synthetic medical claims labeled with real X12 835 denial codes, denial categories, appeal success probability, and recovery actions. Built for RCM AI, denial prediction ML, and LLM fine-tuning.
 
 ---
+<p align="center">
+  <img src="https://githubusercontent.com" alt="EDA Overview" width="100%">
+</p>
+
 
 ## The Problem
 
