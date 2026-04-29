@@ -9,8 +9,9 @@
 
 ---
 <p align="center">
-  <img src="https://githubusercontent.com" alt="EDA Overview" width="100%">
+  <img src="eda_overview.png" alt="EDA Overview" width="100%">
 </p>
+
 
 
 ## The Problem
