@@ -220,6 +220,4 @@ I build clinical NLP, RCM, and medical coding datasets for healthtech startups.
 
 ---
 
-⭐ **Star this repo** if it helped you — it keeps me building more open healthcare datasets.
-
-[![GitHub stars](https://img.shields.io/github/stars/NudratDS/DenialIQ?style=social)](https://github.com/NudratDS/DenialIQ)
+⭐ **Star this repo** if it helped you  it keeps me building more open healthcare datasets.
